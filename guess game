@@ -6,6 +6,7 @@ while True:
     if n==solution:
         print("yay!you guessed the number")
     elif n>solution:
-        print("oops,got a bigger number. kidnly enter a smaller number")
+        print("oops,got a bigger number. kind22" 
+        "ly enter a smaller number")
     else:
-        print("oops,got a smaller number. kindly enter a bigger number")
+        print("oops,got a smaller number. kindly enter a bigger number")5
