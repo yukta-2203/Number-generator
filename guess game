@@ -1,0 +1,11 @@
+import random
+solution=random.randint(1,50)
+
+while True:
+    n=int(input("enter a number"))
+    if n==solution:
+        print("yay!you guessed the number")
+    elif n>solution:
+        print("oops,got a bigger number. kidnly enter a smaller number")
+    else:
+        print("oops,got a smaller number. kindly enter a bigger number")
